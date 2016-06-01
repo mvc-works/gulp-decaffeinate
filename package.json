@@ -16,5 +16,14 @@
     "gulp-util": "^3.0.7",
     "merge": "^1.2.0",
     "through2": "^2.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvc-works/gulp-decaffeinate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvc-works/gulp-decaffeinate/issues"
+  },
+  "homepage": "https://github.com/mvc-works/gulp-decaffeinate#readme"
 }
