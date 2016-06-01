@@ -28,7 +28,7 @@ module.exports = function (opt) {
       return cb(new PluginError('gulp-decaffeinate', err));
     }
 
-    file.contents = new Buffer(data);
+    file.contents = new Buffer(data.code);
 
     file.path = dest;
     cb(null, file);

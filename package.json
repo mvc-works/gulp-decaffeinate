@@ -1,6 +1,6 @@
 {
   "name": "gulp-decaffeinate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulp plugin for decaffeinate",
   "main": "index.js",
   "scripts": {
