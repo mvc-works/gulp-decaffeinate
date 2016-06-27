@@ -1,6 +1,6 @@
 {
   "name": "gulp-decaffeinate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "gulp plugin for decaffeinate",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "jiyinyiyong",
   "license": "MIT",
   "dependencies": {
-    "decaffeinate": "^2.11.2",
+    "decaffeinate": "^2.13.1",
     "gulp-util": "^3.0.7",
     "merge": "^1.2.0",
     "through2": "^2.0.1"
